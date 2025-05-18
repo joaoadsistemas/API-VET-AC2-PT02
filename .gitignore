@@ -1,0 +1,47 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled files
+target/
+bin/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Maven
+log/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot devtools
+.spring-boot-devtools.properties
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+*.rej
